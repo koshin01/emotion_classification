@@ -1,0 +1,6 @@
+[submodule "model"]
+	path = model
+	url = https://huggingface.co/koshin2001/Japanese-to-emotions
+[submodule "app"]
+	path = app
+	url = https://huggingface.co/spaces/koshin2001/Japanese-to-Emotions
